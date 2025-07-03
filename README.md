@@ -13,6 +13,7 @@
   - Sol：canteenService，init里面建表（指标不治本）
  
 - 更换一个可持续发展的建表方法
+  - TODO
 - 更新Service，参照上面的东西，打包发给大家
 - DishListMeaasge：在食堂端外，新增一个API，处理用户信息，删除对token的食堂身份核查即可
 - 网上/AI搜索，一般推荐系统的实现，综合考虑浏览和点赞？
@@ -23,6 +24,7 @@
 ### FRONT END
 
 - webstorm有一个增加菜品的报错
+  - TODO
 
 - 系统学习一下react
 
