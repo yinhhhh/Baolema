@@ -48,6 +48,7 @@
   - TODO 
 - 食堂端，更新菜品页面：showcase所有菜品
   - TODO fzy
+  - log 25/7/4, 1: 00, gmq: showcasePage尝试使用Daisy UI 成功加上drawer（未完成跳转 疑似未使用主题而是直接规定颜色）
 - 注册页：改成小清新
 - 学生端：增加菜品页面
   - TODO hhhjerry做showcasepage的修改 
