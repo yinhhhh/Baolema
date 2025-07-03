@@ -7,6 +7,8 @@
   - Sol：0703最新版本zip已经发在群里
 - 更新了DishListMessage
   - Sol: CanteenService-0703-2.zip发在群里
+- 删除了CanteenService的obj；增加了logOutAPI
+  - Sol: 0703-2最新版本zip已发群里
 
 </br>
 
@@ -28,9 +30,9 @@
  
     
 - 调整Obj，并应用到各service
-  - TODO
+  - Sol: Done
 - 增加登出功能（模仿sample）
-  - TODO
+  - SOl: Done
 
 </br>
   
