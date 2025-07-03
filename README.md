@@ -36,12 +36,13 @@
 
 - 系统学习一下react
 
-- 食堂端，更新菜品页面：解决第二次进入无法更改内容的bug
-  - TODO hhhJerry正在改
+- 食堂端，更新菜品页面：解决第二次进入无法更改内容的bug(世界未解之谜)
+  - TODO 
 - 食堂端，更新菜品页面：showcase所有菜品
   - TODO fzy
 - 注册页：改成小清新
 - 学生端：增加菜品页面
+  - TODO hhhjerry做showcasepage的修改 
 - 用户端，首页：浮窗食堂转换框
 
 </br>
