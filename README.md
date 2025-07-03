@@ -4,6 +4,7 @@
 ### NOTE FOR EVERYONE
 
 - 注意更新本地所有Service的API接口：UserService中GetUserIdByUserRole中的**id应改为ID**
+  - Sol：0703最新版本zip已经发在群里
 
 </br>
 
