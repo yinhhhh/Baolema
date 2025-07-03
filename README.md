@@ -11,11 +11,15 @@
 
 - 前端console里面事务退出的报错
   - Sol：canteenService，init里面建表（指标不治本）
- 
 - 更换一个可持续发展的建表方法
-  - TODO
+  - Sol：增加一句 ON CONFLICT (canteen_id) DO NOTHING;
 - 更新Service，参照上面的东西，打包发给大家
+  - Sol：Done
+ 
+    
 - DishListMeaasge：在食堂端外，新增一个API，处理用户信息，删除对token的食堂身份核查即可
+  - Sol: 并没有新增，减少对token的检验即可
+    
 - 网上/AI搜索，一般推荐系统的实现，综合考虑浏览和点赞？
 
 </br>
