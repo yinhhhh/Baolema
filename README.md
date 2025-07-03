@@ -7,8 +7,9 @@
   - Sol：0703最新版本zip已经发在群里
 - 更新了DishListMessage
   - Sol: CanteenService-0703-2.zip发在群里
-- 删除了CanteenService的obj；增加了logOutAPI
-  - Sol: 0703-2最新版本zip已发群里
+- 删除了CanteenService的obj；增加了logoutAPI；login-panel相应的plugin中的obj也已删除，增加了logoutAPI
+  - Sol: 0703-3最新版本zip已发群里
+  - log 25/7/4, 1: 00, fzy: login-panel 待合并，明天发群里 【TODO】
 
 </br>
 
@@ -47,7 +48,7 @@
 - 食堂端，更新菜品页面：解决第二次进入无法更改内容的bug(世界未解之谜)
   - TODO 
 - 食堂端，更新菜品页面：showcase所有菜品
-  - TODO fzy
+  - TODO
   - log 25/7/4, 1: 00, gmq: showcasePage尝试使用Daisy UI 成功加上drawer（未完成跳转 疑似未使用主题而是直接规定颜色）
 - 注册页：改成小清新
 - 学生端：增加菜品页面
