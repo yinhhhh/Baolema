@@ -41,7 +41,8 @@
 - 增加登出功能（模仿sample）
   - SOl: Done
  
-- 修改点评（选）
+- ReviewService: 增加删除点评、修改点评
+  - Sol：现在新增了两个api，需要加在plugin里，但理论上是不需要移动到后端其他service的（因为也没用上） 【但万一出现问题，检查点】
 
 </br>
   
