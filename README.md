@@ -31,6 +31,13 @@
     
 - DishListMeaasge：在食堂端外，新增一个API，处理用户信息，删除对token的食堂身份核查即可
   - Sol: 并没有新增，减少对token的检验即可
+
+- CreateComplaintMessage: 填表没填全:
+  1. 没填userID
+  2. reply，resolved at似乎也不支持先不填
+  - TODO： 18：23 gmq尝试修改complaint service
+
+
     
 - 网上/AI搜索，一般推荐系统的实现，综合考虑浏览和点赞？
   - TODO
