@@ -42,7 +42,9 @@
   - SOl: Done
  
 - ReviewService: 增加删除点评、修改点评
-  - Sol：现在新增了两个api，需要加在plugin里，但理论上是不需要移动到后端其他service的（因为也没用上） 【但万一出现问题，检查点】
+  - Sol：现在新增了两个api
+  - 注意：两个.ts需要加在plugin里；ReviewService已经更新（发在群里）
+  - 理论上是不需要移动到后端其他service的（因为也没用上） 【但万一出现问题，检查点】
 
 </br>
   
