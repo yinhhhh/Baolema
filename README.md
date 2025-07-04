@@ -9,7 +9,8 @@
   - Sol: CanteenService-0703-2.zip发在群里
 - 删除了CanteenService的obj；增加了logoutAPI；login-panel相应的plugin中的obj也已删除，增加了logoutAPI
   - Sol: 0703-3最新版本zip已发群里
-  - log 25/7/4, 1: 00, fzy: login-panel 待合并，明天发群里 【TODO】
+  - log 25/7/4, 1: 00, fzy: login-panel 待合并，明天发群里
+  - Sol: login-panel-0704.zip已发群里
 
 </br>
 
@@ -65,5 +66,8 @@
   - 检查前端API调用？
  
 - 错误气泡流？参考0703课上最后一组的github？
+
+- ManagerPage登出
+  - TODO
 
 </br>
