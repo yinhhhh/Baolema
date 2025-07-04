@@ -11,6 +11,7 @@
   - Sol: 五个微服务-0703-3最新版本zip已发群里
   - log 25/7/4, 1: 00, fzy: login-panel 待合并，明天发群里
   - Sol: 合并新UI，但没有登出功能的 login-panel-0704.zip已发群里
+  - Upt: UserService-0704 增加了logoutAPI
 
 </br>
 
