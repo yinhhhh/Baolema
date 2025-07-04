@@ -74,6 +74,6 @@
 - 错误气泡流？参考0703课上最后一组的github？
 
 - ManagerPage登出
-  - TODO
+  - Sol: done
 
 </br>
