@@ -35,8 +35,14 @@
 - CreateComplaintMessage: 填表没填全:
   1. 没填userID
   2. reply，resolved at似乎也不支持先不填
-  - TODO： 18：23 gmq尝试修改complaint service
-
+  - sol 18：23 gmq尝试修改complaint service
+  - 进度：
+    19：11   填表问题已修好 学生端可提交complaint，但有新的问题：食堂段无法查询complaint，问题大概出在QueryComplaint API
+     
+- QueryComplaintMessage
+- 进度：
+   1.修改了QueryComplaintMessage，真正使用了getuserIDbytoken而不是直接返回token
+  2.新的问题：错误: 获取投诉失败: "\"[GetUserIdByTokenMessagePlanner] Token 96c1554c-3ac6-4690-a871-51fff95caec5 无效或已过期\"" 但查表发现存在且未过期
 
     
 - 网上/AI搜索，一般推荐系统的实现，综合考虑浏览和点赞？
