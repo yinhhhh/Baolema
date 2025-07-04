@@ -80,6 +80,10 @@
   - TODO hhhjerry做showcasepage的修改 
 - 用户端，首页：浮窗食堂转换框
 
+- 学生端到ViewReviewPage传入canteenID和dishID
+- viewReviewPage返回showcasePage
+- 测试返回后能否正常去其他园
+
 </br>
 
 
