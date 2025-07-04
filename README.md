@@ -1,5 +1,9 @@
 # TODO List
 
+### REMINDER
+
+- 如何增加API？
+  - 改impl、api、routes（在process里面）
 
 ### NOTE FOR EVERYONE
 
