@@ -3,7 +3,32 @@
 ### REMINDER
 
 - 如何增加API？
-  - 改impl、api、routes（在process里面）
+  - 后端改impl、api、routes（在process里面）
+  - 前端加.ts（注意端口与后端微服务一致！如.10010）
+ 
+## This weekend
+
+### BACK END
+
+- 增加菜系
+- 增加Recommendation（算法不必太考察，重要是体现类型的思想，本周末可以先搞一个简单的按照点评推荐；后面可以基于此，增加按照菜系推荐、甜品推荐，等等）
+- 增加Score展示panel（比如可以传入某Dish的所有review，传出......下面的东西！）
+
+**突然有一个idea，也许我们可以在panel上做一些文章，体现类型关系，比如说计算该食堂*主食、热菜、冷菜、甜品、饮品、早餐*等几个方向菜的综合评分，形成一个六边形之类的**
+
+
+### FRONT END
+
+- 解决button点不动的问题
+- Dish的搜索也可以搞起来，后端提供接口QueryMessgage
+- Review的增删改查也可以搞，后端提供相应接口
+- 请从下面转移过来一些
+
+
+
+
+
+--- 以下过期，请转移到上面
 
 ### NOTE FOR EVERYONE
 
@@ -84,8 +109,7 @@
 - viewReviewPage返回showcasePage
 - 测试返回后能否正常去其他园
 
-- Dish的搜索也可以搞起来，后端提供接口QueryMessgage
-- Review的增删改查也可以搞，后端提供相应接口
+
 
 </br>
 
