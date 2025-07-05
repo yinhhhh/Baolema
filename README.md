@@ -84,6 +84,9 @@
 - viewReviewPage返回showcasePage
 - 测试返回后能否正常去其他园
 
+- Dish的搜索也可以搞起来，后端提供接口QueryMessgage
+- Review的增删改查也可以搞，后端提供相应接口
+
 </br>
 
 
@@ -98,8 +101,12 @@
 - ManagerPage登出
   - Sol: done
 
- [TODO]
+
 - ReviewService的删、改还不行哦（实在不行就别改了，只删吧。。。。。。）
+  - Sol: 端口问题，前端.ts端口统一为10010（这个数值由微服务决定，可以问问后端）
 - title问题，各种api，重新处理一下，要不这几个部分都重开吧:)
+  - TODO
+
+
 
 </br>
