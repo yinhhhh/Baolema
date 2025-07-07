@@ -4,6 +4,8 @@
 
 - 如何增加API？
   - 后端改impl、api、routes（在process里面）
+    - （报错检验）特别地，注意检测planner入参里面应该有plancontext，而不是在第二个括号里面
+    - （报错检验）然后routes里面记得import对应的planner，否则err,value,planner都找不到定义
   - 前端加.ts（注意端口与后端微服务一致！如.10010）
  
 ## This weekend
