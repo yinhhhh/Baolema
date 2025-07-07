@@ -38,8 +38,7 @@
 评论：
 星星真实显示而不是全是5星 已解决
 
-统计菜品评分 
-- TODO：移到主界面
+统计菜品评分 TODO：移到主界面
 
 推荐及用户操作：
 Done点赞--推荐 我赞过的评论-QueryBrowsed
@@ -47,10 +46,10 @@ Done点赞--推荐 我赞过的评论-QueryBrowsed
 TODO食堂端查看评论？
 
 TODO学生端查看菜品：
-ViewMenuPage应该能看出来是哪个食堂（加“紫荆园“），canteen可以加地址？营业时间？（类型安全）
+Doing ViewMenuPage应该能看出来是哪个食堂（加“紫荆园“），canteen可以加地址？营业时间？（类型安全）
 /（暂时可以接受现状）菜品平均评分显示菜品详情页面：评论、加评论、数据统计，ViewMenuPage中的是缩略图加“热门评论（点赞数最多的随机一个）”
 
-TODO 水果捞怎么是0条评论
+Done 水果捞怎么是0条评论
 TODO 我希望学生端和食堂端看到的Complaint中”菜品ID“都换成菜品名称
 TODO dishID 随机生成
 TODO 查看投诉时 看到的不是ID而是名称
@@ -58,7 +57,7 @@ TODO viewmenupage 显示食堂名称
 TODO 测试：某些跳转（非顺序）时会传不到token
 TODO 统一风格和面包屑导航
 （TODO）探索浏览器打开
-TODO 统计评分数据应该直接显现
+Done 统计评分数据应该直接显现
 
 TODO 尝试上传图片和用户编辑资料？
 
